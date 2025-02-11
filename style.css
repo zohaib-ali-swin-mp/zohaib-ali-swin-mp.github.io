@@ -1,15 +1,15 @@
 @font-face {
 	font-family: sohne-buch !important;
-	src: url('assets/fonts/sohne-buch.otf');
+	src: url('assets/fonts/sohne-buch.woff');
 }
 
 @font-face {
 	font-family: sohne-kraftig !important;
-	src: url('assets/fonts/sohne-kraftig.otf');
+	src: url('assets/fonts/sohne-kraftig.woff');
 }
 
 body {
-	font-family: sohne-buch, sohne-kraftig  !important;
+	font-family: sohne-kraftig  !important;
 }
 
 h1,h2,h3,h4,h5,h6 {
