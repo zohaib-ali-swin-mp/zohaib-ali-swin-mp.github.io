@@ -1,11 +1,11 @@
 @font-face {
 	font-family: sohne-buch !important;
-	src: url('assets/fonts/sohne-buch.woff');
+	src: url('assets/fonts/sohne-buch.otf');
 }
 
 @font-face {
 	font-family: sohne-kraftig !important;
-	src: url('assets/fonts/sohne-kraftig.woff');
+	src: url('assets/fonts/sohne-kraftig.otf');
 }
 
 body {
@@ -16,10 +16,10 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: sohne-kraftig  !important;
 }
 
-#sohne-buch {
+.sohne-buch {
 	font-family: sohne-buch !important;
 }
 
-#sohne-kraftig {
+.sohne-kraftig {
 	font-family: sohne-kraftig !important;
 }
