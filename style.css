@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "sohne" !important;
+	src: url('assets/fonts/sohne-buch.woff'),
+		url('assets/fonts/sohne-kraftig.woff');
+}
+
+body {
+	font-family: 'sohne', !important;
+}
