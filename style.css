@@ -1,9 +1,17 @@
 @font-face {
-	font-family: "sohne" !important;
-	src: url('assets/fonts/sohne-buch.woff'),
-		url('assets/fonts/sohne-kraftig.woff');
+	font-family: 'sohne-buch' !important;
+	src: url('assets/fonts/sohne-buch.woff');
+}
+
+@font-face {
+	font-family: 'sohne-kraftig' !important;
+	src: url('assets/fonts/sohne-kraftig.woff');
 }
 
 body {
-	font-family: 'sohne', !important;
+	font-family: 'sohne-buch', 'sohne-kraftig'  !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'sohne-kraftig'  !important;
 }
