@@ -1,7 +1,7 @@
 @font-face {
 	font-family: sohne-buch !important;
 	src: url('assets/fonts/sohne-buch.woff');
-}
+} 
 
 @font-face {
 	font-family: sohne-kraftig !important;
@@ -9,7 +9,7 @@
 }
 
 body {
-	font-family: sohne-kraftig  !important;
+	font-family: sohne-buch  !important;
 }
 
 h1,h2,h3,h4,h5,h6 {
