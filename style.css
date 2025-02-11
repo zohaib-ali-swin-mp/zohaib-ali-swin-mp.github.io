@@ -1,17 +1,25 @@
 @font-face {
-	font-family: 'sohne-buch' !important;
+	font-family: sohne-buch !important;
 	src: url('assets/fonts/sohne-buch.woff');
 }
 
 @font-face {
-	font-family: 'sohne-kraftig' !important;
+	font-family: sohne-kraftig !important;
 	src: url('assets/fonts/sohne-kraftig.woff');
 }
 
 body {
-	font-family: 'sohne-buch', 'sohne-kraftig'  !important;
+	font-family: sohne-buch, sohne-kraftig  !important;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'sohne-kraftig'  !important;
+	font-family: sohne-kraftig  !important;
+}
+
+#sohne-buch {
+	font-family: sohne-buch !important;
+}
+
+#sohne-kraftig {
+	font-family: sohne-kraftig !important;
 }
